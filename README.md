@@ -12,14 +12,20 @@
 - タクタイルスイッチ: 轻触开关
 - OLED ディスプレイ: OLED 显示屏
 - MCU: 微控制器
-- 32bit: 32位
+- 32bit: 32 位
 - ボックスピンヘッダ: 牛角插座
 - I/O エキスパンダー: 扩展器芯片
 
 - 新品: 全新原装
 - 解体品: 拆机货
 
-## キーボード
+## コネクタ
+
+- ベース付ポスト（差し込まれるやつ）: 接插件
+- コネクタハウジング（差し込むやつ）: 胶壳
+- コンタクト（圧着するやつ）: 端子、接线端子
+
+## 自作キーボード
 
 - キーボード: 键盘
 - メカニカルキーボード: 机械键盘
@@ -37,3 +43,22 @@
 - 待收货: 発送済み到着待ち
 - 待发货: 出荷待ち
 - 月销量: 月間売上
+
+## お店
+
+### 電子工作
+
+- よくある IC: 深圳市义胜电子网 https://yishengdz888.world.taobao.com/shop/view_shop.htm
+- ESP32: 深圳市集芯电子科 JiXin Electronic https://jixin-electronic.world.taobao.com/shop/view_shop.htm
+- コネクタ、USB ソケット、タクタイルスイッチ: 深圳市港汇电子 GANGHUI https://shop144128710.world.taobao.com/shop/view_shop.htm
+- コネクタケーブル: 三利佳电子 https://shop109559960.world.taobao.com/shop/view_shop.htm
+- レジスタ、キャパシタ: 深圳市允易达电子商行 https://shop61254483.world.taobao.com/shop/view_shop.htm
+- モジュール: 深圳市轩特佳电子 https://shop257979230.world.taobao.com/shop/view_shop.htm
+
+### 自作キーボード
+
+- スイッチ: 哈狐外设 https://gtwaishe.world.taobao.com/shop/view_shop.htm
+- Durock スイッチ: DUROCK https://shop101160914.world.taobao.com/shop/view_shop.htm
+- スイッチ、小物: Kelowna 可乐蛙 https://sloer.world.taobao.com/shop/view_shop.htm
+- キーキャップ: Sky 客制化外设店 https://shop61254483.world.taobao.com/shop/view_shop.htm
+- ケース、キーキャップ、スイッチ: 键帽馆 https://jmgxy.world.taobao.com/shop/view_shop.htm
